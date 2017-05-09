@@ -1,0 +1,507 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.8)  2 MAY 2017 19:35
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**SEDrefs.tex
+(./SEDrefs.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/extsizes/extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/extsizes/size9.clo
+File: size9.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen102
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks15
+)
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (731.23582pt) is ignored.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count91
+) (./SEDrefs.aux
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+)
+\openout1 = `SEDrefs.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69684pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=9.0pt
+* \footskip=30.0pt
+* \marginparwidth=74.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=8.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen114
+\scratchbox=\box26
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen115
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks18
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 57.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 57.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<plots/L1448.pdf, id=23, 794.97pt x 614.295pt>
+File: plots/L1448.pdf Graphic file (type pdf)
+ <use plots/L1448.pdf>
+Package pdftex.def Info: plots/L1448.pdf used on input line 152.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+ [2
+
+ <./plots/L1448.pdf, page is rotated 90 degrees>]
+<plots/HH7-11.pdf, id=35, 794.97pt x 614.295pt>
+File: plots/HH7-11.pdf Graphic file (type pdf)
+ <use plots/HH7-11.pdf>
+Package pdftex.def Info: plots/HH7-11.pdf used on input line 199.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+ [3
+
+ <./plots/HH7-11.pdf, page is rotated 90 degrees>] [4]
+<plots/L1551.pdf, id=50, 794.97pt x 614.295pt>
+File: plots/L1551.pdf Graphic file (type pdf)
+ <use plots/L1551.pdf>
+Package pdftex.def Info: plots/L1551.pdf used on input line 275.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+ [5
+
+
+ <./plots/L1551.pdf, page is rotated 90 degrees>]
+<plots/L1527.pdf, id=62, 794.97pt x 614.295pt>
+File: plots/L1527.pdf Graphic file (type pdf)
+ <use plots/L1527.pdf>
+Package pdftex.def Info: plots/L1527.pdf used on input line 323.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+ [6
+
+ <./plots/L1527.pdf, page is rotated 90 degrees>]
+<plots/HH1-2.pdf, id=74, 794.97pt x 614.295pt>
+File: plots/HH1-2.pdf Graphic file (type pdf)
+ <use plots/HH1-2.pdf>
+Package pdftex.def Info: plots/HH1-2.pdf used on input line 371.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+ [7
+
+ <./plots/HH1-2.pdf, page is rotated 90 degrees>]
+<plots/HH26IR.pdf, id=87, 794.97pt x 614.295pt>
+File: plots/HH26IR.pdf Graphic file (type pdf)
+ <use plots/HH26IR.pdf>
+Package pdftex.def Info: plots/HH26IR.pdf used on input line 410.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+ [8
+
+ <./plots/HH26IR.pdf, page is rotated 90 degrees>]
+<plots/HH111.pdf, id=99, 794.97pt x 614.295pt>
+File: plots/HH111.pdf Graphic file (type pdf)
+ <use plots/HH111.pdf>
+Package pdftex.def Info: plots/HH111.pdf used on input line 459.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+ [9 <./plots/HH111.pdf, page is rotated 90 degrees>]
+<plots/NGC2264.pdf, id=111, 794.97pt x 614.295pt>
+File: plots/NGC2264.pdf Graphic file (type pdf)
+ <use plots/NGC2264.pdf>
+Package pdftex.def Info: plots/NGC2264.pdf used on input line 497.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+
+[10
+
+
+ <./plots/NGC2264.pdf, page is rotated 90 degrees>] [11]
+<plots/Serpens.pdf, id=126, 794.97pt x 614.295pt>
+File: plots/Serpens.pdf Graphic file (type pdf)
+ <use plots/Serpens.pdf>
+Package pdftex.def Info: plots/Serpens.pdf used on input line 561.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+
+[12
+
+
+ <./plots/Serpens.pdf, page is rotated 90 degrees>]
+<plots/L723.pdf, id=138, 794.97pt x 614.295pt>
+File: plots/L723.pdf Graphic file (type pdf)
+ <use plots/L723.pdf>
+Package pdftex.def Info: plots/L723.pdf used on input line 612.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+ [13 <./plots/L723.pdf, page is rotated 90 degrees>]
+<plots/L1251.pdf, id=151, 794.97pt x 614.295pt>
+File: plots/L1251.pdf Graphic file (type pdf)
+ <use plots/L1251.pdf>
+Package pdftex.def Info: plots/L1251.pdf used on input line 659.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+ [14
+
+
+ <./plots/L1251.pdf, page is rotated 90 degrees>]
+<plots/L1448C.pdf, id=164, 794.97pt x 614.295pt>
+File: plots/L1448C.pdf Graphic file (type pdf)
+ <use plots/L1448C.pdf>
+Package pdftex.def Info: plots/L1448C.pdf used on input line 717.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+
+[15 <./plots/L1448C.pdf, page is rotated 90 degrees>]
+<plots/HH7-11-IRAS2A.pdf, id=176, 794.97pt x 614.295pt>
+File: plots/HH7-11-IRAS2A.pdf Graphic file (type pdf)
+
+<use plots/HH7-11-IRAS2A.pdf>
+Package pdftex.def Info: plots/HH7-11-IRAS2A.pdf used on input line 768.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+ [16 <./plots/HH7-11-IRAS2A.pdf, page is rotated 90 degrees>] <plots/HH7-11-IRA
+S2B.pdf, id=188, 794.97pt x 614.295pt>
+File: plots/HH7-11-IRAS2B.pdf Graphic file (type pdf)
+
+<use plots/HH7-11-IRAS2B.pdf>
+Package pdftex.def Info: plots/HH7-11-IRAS2B.pdf used on input line 807.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+ [17
+
+
+
+ <./plots/HH7-11-IRAS2B.pdf, page is rotated 90 degrees>] <plots/L1551NE-TdFixe
+d.pdf, id=200, 794.97pt x 614.295pt>
+File: plots/L1551NE-TdFixed.pdf Graphic file (type pdf)
+
+<use plots/L1551NE-TdFixed.pdf>
+Package pdftex.def Info: plots/L1551NE-TdFixed.pdf used on input line 851.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+
+<plots/L1551NE.pdf, id=201, 794.97pt x 614.295pt>
+File: plots/L1551NE.pdf Graphic file (type pdf)
+ <use plots/L1551NE.pdf>
+Package pdftex.def Info: plots/L1551NE.pdf used on input line 852.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+
+[18] [19 <./plots/L1551NE-TdFixed.pdf, page is rotated 90 degrees> <./plots/L15
+51NE.pdf, page is rotated 90 degrees>]
+<plots/HH25MMS.pdf, id=225, 794.97pt x 614.295pt>
+File: plots/HH25MMS.pdf Graphic file (type pdf)
+ <use plots/HH25MMS.pdf>
+Package pdftex.def Info: plots/HH25MMS.pdf used on input line 895.
+(pdftex.def)             Requested size: 314.39998pt x 242.94849pt.
+
+[20
+
+
+ <./plots/HH25MMS.pdf, page is rotated 90 degrees>] (./SEDrefs.bbl [21
+
+]
+[22]) [23] (./SEDrefs.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3025 strings out of 493089
+ 46865 string characters out of 6134842
+ 119131 words of memory out of 5000000
+ 6458 multiletter control sequences out of 15000+600000
+ 12190 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,10n,28p,914b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.
+pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pf
+b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/20
+15/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2015
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on SEDrefs.pdf (23 pages, 972068 bytes).
+PDF statistics:
+ 301 PDF objects out of 1000 (max. 8388607)
+ 222 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+

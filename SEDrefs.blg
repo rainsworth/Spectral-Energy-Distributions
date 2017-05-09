@@ -1,0 +1,124 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: SEDrefs.aux
+The style file: apj.bst
+Database file #1: Bibliography.bib
+Repeated entry---line 2688 of file Bibliography.bib
+ : @article{1985ApJ...293L..35P
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3271 of file Bibliography.bib
+ : @article{hob04
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3442 of file Bibliography.bib
+ : @article{2000ApJ...529..477L
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3457 of file Bibliography.bib
+ : @article{2010AJ....139.2504G
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4465 of file Bibliography.bib
+ : @article{1989ApJ...346L..85R
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4480 of file Bibliography.bib
+ : @article{1993ApJ...415..191C
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4495 of file Bibliography.bib
+ : @article{2008AJ....136.1852R
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4683 of file Bibliography.bib
+ : @article{2010AA...518L.122F
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4824 of file Bibliography.bib
+ : @article{1990ApJ...365L..85C
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4939 of file Bibliography.bib
+ : @article{1999ApJS..125..427R
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5010 of file Bibliography.bib
+ : @article{1987MNRAS.226..461J
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5024 of file Bibliography.bib
+ : @article{1994AA...285L...1S
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5038 of file Bibliography.bib
+ : @article{2003ApJ...583..330R
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5095 of file Bibliography.bib
+ : @article{2002AJ....124.1045R
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5110 of file Bibliography.bib
+ : @article{2000ApJ...533L.143M
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5155 of file Bibliography.bib
+ : @article{2011ApJ...739L...7M
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5236 of file Bibliography.bib
+ : @article{1990ApJ...352..645R
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5572 of file Bibliography.bib
+ : @article{1994ApJ...436..749G
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5589 of file Bibliography.bib
+ : @article{1995MNRAS.273L..25W
+ :                             ,
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 87 entries,
+            3085 wiz_defined-function locations,
+            1279 strings with 24843 characters,
+and the built_in function-call counts, 43886 in all, are:
+= -- 3723
+> -- 3308
+< -- 20
++ -- 1122
+- -- 1249
+* -- 3815
+:= -- 8212
+add.period$ -- 87
+call.type$ -- 87
+change.case$ -- 655
+chr.to.int$ -- 85
+cite$ -- 87
+duplicate$ -- 1656
+empty$ -- 2459
+format.name$ -- 1327
+if$ -- 8677
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 86
+newline$ -- 265
+num.names$ -- 348
+pop$ -- 731
+preamble$ -- 1
+purify$ -- 655
+quote$ -- 0
+skip$ -- 1350
+stack$ -- 0
+substring$ -- 1868
+swap$ -- 12
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 783
+warning$ -- 0
+while$ -- 341
+width$ -- 0
+write$ -- 873
+(There were 19 error messages)
