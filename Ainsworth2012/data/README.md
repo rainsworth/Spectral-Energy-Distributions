@@ -21,4 +21,4 @@ The SED data ranges from centimetre to IR wavelengths for the following protoste
 <li> L723
 <li> L1251
 
-The SEDs were fitted following the methods described in Section 6.3 of the paper and the resulting plots can be found in the <a href="https://github.com/rainsworth/Spectral-Energy-Distributions/Ainsworth2012/plots">Ainsworth2012/plots</a> directory. 
+The SEDs were fitted following the methods described in Section 6.3 of the paper and the resulting plots can be found in the <a href="https://github.com/rainsworth/Spectral-Energy-Distributions/tree/master/Ainsworth2012/plots">Ainsworth2012/plots</a> directory. 
