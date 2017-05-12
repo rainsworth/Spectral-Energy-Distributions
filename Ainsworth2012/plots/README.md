@@ -19,4 +19,4 @@ The SEDs range from centimetre to IR wavelengths for the following protostellar 
 <li> L723
 <li> L1251
 
-The SEDs were fitted following the methods described in Section 6.3 of the <a href="https://github.com/rainsworth/Spectral-Energy-Distributions/Ainsworth2012/MNRAS-2012--1089-108.pdf">paper</a> and the data used for these plots can be found in the <a href="https://github.com/rainsworth/Spectral-Energy-Distributions/Ainsworth2012/data">Ainsworth2012/data</a> directory. 
+The SEDs were fitted following the methods described in Section 6.3 of the <a href="https://github.com/rainsworth/Spectral-Energy-Distributions/Ainsworth2012/MNRAS-2012--1089-108.pdf">paper</a> and the data used for these plots can be found in the <a href="https://github.com/rainsworth/Spectral-Energy-Distributions/tree/master/Ainsworth2012/data">Ainsworth2012/data</a> directory. 
