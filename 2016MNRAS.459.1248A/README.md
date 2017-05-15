@@ -9,7 +9,7 @@ The YSOs in the sample are:
 
 The data were fitted using the Markov Chain Monte Carlo based Maximum Likelihood algorithm METRO (Hobson & Baldwin 2004) as described in Ainsworth et al. (2016).
 
-I have included a .tex compilation of the SED data, plots and model parameters which you can view in <a href="https://github.com/rainsworth/Spectral-Energy-Distributions/blob/master/2016MNRAS.459.1248A/2016MNRAS.459.1248A_SEDrefs.pdf">SEDrefs.pdf</a>.
+I have included a .tex compilation of the SED data, plots and model parameters which you can view in <a href="https://github.com/rainsworth/Spectral-Energy-Distributions/blob/master/2016MNRAS.459.1248A/SEDrefs.pdf">SEDrefs.pdf</a>.
 
 The python script used to make the plots can be found in the <a href="https://github.com/rainsworth/paper_scripts/tree/master/2016MNRAS.459.1248A">paper_scripts/2016MNRAS.459.1248A</a> repository. 
 
