@@ -5,5 +5,3 @@ Data for the T Tau spectral energy distribution presented in C. P. Coughlan, <b>
 See Colm Coughlan's <a href="https://github.com/colmcoughlan/astro-scripts/tree/master/catalog">astro-scripts</a> repository for the scripts used to fit and plot the SED.
 
 <img src="https://github.com/rainsworth/Spectral-Energy-Distributions/blob/master/2017ApJ...834..206C/T_Tau_SED.png"> 
-
-<img src="https://github.com/rainsworth/Spectral-Energy-Distributions/blob/master/2017ApJ...834..206C/corner_plot.png">
